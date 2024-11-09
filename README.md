@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://media1.tenor.com/m/hGrGwy3KLUIAAAAd/fortnite-dance.gif" width="833" height="833" alt="a shirtless man is dancing in a video game ." style="max-width: 833px;">
+img src="https://media1.tenor.com/m/hGrGwy3KLUIAAAAd/fortnite-dance.gif" width="833" height="833" alt="a shirtless man is dancing in a video game ." style="max-width: 833px;"
 
 
 **Donlasan/Donlasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
